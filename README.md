@@ -3,8 +3,6 @@
 Real Talk is a real-time chat application built using the MERN stack (MongoDB, Express.js, React, and Node.js). It allows users to sign up, sign in, and chat with other users in real time. The app utilizes Vite as a build tool, Socket.IO for real-time communication, Daisy UI for styling, JWT for authentication, and Tailwind CSS for UI components. The app is deployed on Render.
 
 
-![Logo](https://github.com/SarangaSiriwardhana9/RealTalk-Real-Time-Chat-App/assets/99233703/1b2cab50-8929-47a8-b634-5a890934bfe5)
-
 ## Screenshots
 
 |   |   |
